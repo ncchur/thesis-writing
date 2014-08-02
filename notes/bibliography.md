@@ -15,7 +15,7 @@ Consider adding abstract or summary for items you've gotten hold of?
 
 ## Other ##
 
-
+- Ioannis Vassis, *Die handschriftliche Überlieferung der sogenannten Psellos-Paraphrase der Ilias* (Hamburg, 1991) (= Meletemata 2).
 - Nigel Wilson: *[An Anthology of Byzantine Prose] (http://rbedrosian.com/Byz/Wilson_1971_Byzantine_Prose.pdf)*
 - [Discussion forum] (http://www.textkit.com/greek-latin-forum/viewtopic.php?t=59559)
 - Cavallo: _[“The Byzantines”] (http://books.google.com/books?id=FJDRx6FAi0EC&pg=PA97&lpg=PA97&dq=byzantine+prose+paraphrase+iliad&source=bl&ots=3btKgGNYh-&sig=G9yNlSlG-5WHyLuHsD4j0O8d-Oc&hl=en&sa=X&ei=XJ_NU8D3B8KWyATJsYDoCg&ved=0CFcQ6AEwCQ#v=onepage&q=byzantine%20prose%20paraphrase%20iliad&f=false)_
