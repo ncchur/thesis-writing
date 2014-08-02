@@ -1,19 +1,9 @@
-#Notes#
-
-##VA Observations##
-(Source for these conclusions?  Allen? If direct observations, should we start a separate file with lists of observations to support his idea?)
-
-- Seemingly three different hands. 
-    >- What might be called the third hand seems to become at some point the interlinear  glosses, or at least related to it.
-- Interlinear paraphrase hand seems to post-date the interlinear gloss/third hand. It seems to write around it and to avoid re-duplicating what it has already defined.
-
-
-##Bibliographic notes##
+#Bibliographic notes#
 
 Consider adding abstract or summary for items you've gotten hold of?
 
 
-### Editions and other primary source material ###
+## Editions and other primary source material ##
 
 
 - In vol. 2 of Ludwich, *Aristarchs Homerische Textkritik* (pdf [here](http://www.homermultitext.org/pd-pdfs/Ludwich1885.pdf)), Beliagen 1 (pp. 483-605), "Mittheilungen aus der griechischen Paraphrasen-Literatur"
@@ -23,7 +13,7 @@ Consider adding abstract or summary for items you've gotten hold of?
     -  [vol. 3](http://www.homermultitext.org/pd-pdfs/Theseus-1812b.pdf) 
     -  [vol. 4](http://www.homermultitext.org/pd-pdfs/Theseus-1812c.pdf) 
 
-### Other ###
+## Other ##
 
 
 - Nigel Wilson: *[An Anthology of Byzantine Prose] (http://rbedrosian.com/Byz/Wilson_1971_Byzantine_Prose.pdf)*
@@ -31,11 +21,11 @@ Consider adding abstract or summary for items you've gotten hold of?
 - Cavallo: _[“The Byzantines”] (http://books.google.com/books?id=FJDRx6FAi0EC&pg=PA97&lpg=PA97&dq=byzantine+prose+paraphrase+iliad&source=bl&ots=3btKgGNYh-&sig=G9yNlSlG-5WHyLuHsD4j0O8d-Oc&hl=en&sa=X&ei=XJ_NU8D3B8KWyATJsYDoCg&ved=0CFcQ6AEwCQ#v=onepage&q=byzantine%20prose%20paraphrase%20iliad&f=false)_
 
 
-### Material we need to photocopy ###
+## Material we need to photocopy ##
 
 Publication of 9 Homeric papyri
 
-### Material we need to order ILL ###
+## Material we need to order ILL ##
 
 
 
