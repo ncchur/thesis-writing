@@ -57,10 +57,6 @@ A consideration of formula based of thirty one lines from folio pages 4r and 4v
 30.  Middle of third foot; keeps clauses together
 31.  Middle of third foot; keeps clauses together
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
 
 ## Exhibit C
 
