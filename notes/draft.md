@@ -22,15 +22,15 @@ Script four [urn:cite:hmt:vaimg.VA015VN-0517@0.69,0.6769,0.198,0.0173] rather li
 What seems to be and reads like a paraphrase [urn:cite:hmt:vaimg.VA016VN-0518@0.49,0.3261,0.274,0.0083] written in a script that is similar to script two.
 ## Exhibit B,
 A consideration of formula based of thirty one lines from folio pages 4r and 4v
-1.  	Breaks middle of fourth foot; cuts apart object of prepositions
-2.  	Middle of fourth foot; keeps prepositional phrase together
-3.  	After first short of dactyl of third foot
-4.  	Middle of third foot; separates initial preposition phrase
-5.  	After first short of dactyl of third foot; keeps prepositional phrase together
-6.  	Middle of third foot; Separates clauses
-7.  	Middle of third foot; separates men/de
-8.  	After first short of dactyl of third foot
-9.  	Between third and fourth feet; separates participle from the rest of clause
+1.  Breaks middle of fourth foot; cuts apart object of prepositions
+2.  Middle of fourth foot; keeps prepositional phrase together
+3.  After first short of dactyl of third foot
+4.  Middle of third foot; separates initial preposition phrase
+5.  After first short of dactyl of third foot; keeps prepositional phrase together
+6.  Middle of third foot; Separates clauses
+7.  Middle of third foot; separates men/de
+8.  After first short of dactyl of third foot
+9.  Between third and fourth feet; separates participle from the rest of clause
 10.  Between third and fourth foot
 11.  After first short of third dactyl
 12.  After first short of third dactyl; separates clause
@@ -57,10 +57,10 @@ A consideration of formula based of thirty one lines from folio pages 4r and 4v
 ## Exhibit C
 Comparison between Bekker paraphrase and Marciana 454
 ### Bekker			454
-  **παῖς			υἷος  l. 102 both use υἷος  τοῦ ἀτρέως
-  **ὄχλος			λαός l. 16; l. 54 opposite; 117-both use laon; 126 both use ochlous
-  **λυτρώσόμενος 		ἐλευθερῶσαι l. 13, 20, 29
-  **μακροβόλου		πόρρωθεν βάλλοντος l. 14, 21, 75
-  **genitive before		genitive after
-  **adjective			participial construction l. 17, 34, 36
-  **positive			superlative l. 43, 89; both superlative 58; 145
+  ** παῖς			υἷος  l. 102 both use υἷος  τοῦ ἀτρέως
+  ** ὄχλος			λαός l. 16; l. 54 opposite; 117-both use laon; 126 both use ochlous
+  ** λυτρώσόμενος 		ἐλευθερῶσαι l. 13, 20, 29
+  ** μακροβόλου		πόρρωθεν βάλλοντος l. 14, 21, 75
+  ** genitive before		genitive after
+  ** adjective			participial construction l. 17, 34, 36
+  ** positive			superlative l. 43, 89; both superlative 58; 145
