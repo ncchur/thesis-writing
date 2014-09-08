@@ -64,11 +64,11 @@ Markdown | Less | Pretty
 
 ## Exhibit C
 Comparison between Bekker paraphrase and Marciana 454
-### |Bekker | 454 |
-  | παῖς | υἷος  l. 102 both use υἷος  τοῦ ἀτρέως |
-  | ὄχλος | λαός l. 16; l. 54 opposite; 117-both use laon; 126 both use ochlous |
-  | λυτρώσόμενος | ἐλευθερῶσαι l. 13, 20, 29 |
-  | μακροβόλου | πόρρωθεν βάλλοντος l. 14, 21, 75 |
-  | genitive before | genitive after |
-  | adjective | participial construction l. 17, 34, 36 |
-  | positive | superlative l. 43, 89; both superlative 58; 145 |
+*Bekker* | *454* 
+ παῖς | υἷος  l. 102 both use υἷος  τοῦ ἀτρέως 
+ ὄχλος | λαός l. 16; l. 54 opposite; 117-both use laon; 126 both use ochlous 
+ λυτρώσόμενος | ἐλευθερῶσαι l. 13, 20, 29 
+ μακροβόλου | πόρρωθεν βάλλοντος l. 14, 21, 75
+ genitive before | genitive after
+ adjective | participial construction l. 17, 34, 36
+ positive | superlative l. 43, 89; both superlative 58; 145
