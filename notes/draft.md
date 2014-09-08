@@ -24,6 +24,7 @@ What seems to be and reads like a paraphrase [urn:cite:hmt:vaimg.VA016VN-0518@0.
 ## Exhibit B
 
 A consideration of formula based of thirty one lines from folio pages 4r and 4v
+
 1.  Breaks middle of fourth foot; cuts apart object of prepositions
 2.  Middle of fourth foot; keeps prepositional phrase together
 3.  After first short of dactyl of third foot
