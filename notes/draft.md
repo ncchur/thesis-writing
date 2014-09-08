@@ -12,7 +12,8 @@ Based on the coincidence of the Psellos paraphrase and the scholia vulgata, Ludw
 A comparison between the Bekker paraphrase and that of the Marciana 454 suggests similarities with consistent differences. 
 
 # Exhibits
-## Exhibit A,
+## Exhibit A
+
 Example of script one [urn:cite:hmt:vaimg.VA012RN-0013@0.1512,0.3071,0.0991,0.0165], thicker, generally lighter, very much cursive. Dominant hand of paraphrase from 12r until 
 Example of script two (interlinear scholia) [urn:cite:hmt:vaimg.VA012RN-0013@0.4434,0.2875,0.0561,0.0158] thicker, more distinct, semiuncial.
 Script three first appears, interspersed with script one[urn:cite:hmt:vaimg.VA013RN-0014@0.18,0.2231,0.351,0.0218], soon replaced again by script one.
@@ -20,16 +21,13 @@ Script three reappears after hiatus [urn:cite:hmt:vaimg.VA013VN-0515@0.483,0.577
 Continuously running paraphrase stops [urn:cite:hmt:vaimg.VA015VN-0517@0.491,0.2585,0.329,0.0488]
 Script four [urn:cite:hmt:vaimg.VA015VN-0517@0.69,0.6769,0.198,0.0173] rather light, thick, similar to script one, but perhaps a bit thicker. Henceforth seems to continue the paraphrase intermittently. 
 What seems to be and reads like a paraphrase [urn:cite:hmt:vaimg.VA016VN-0518@0.49,0.3261,0.274,0.0083] written in a script that is similar to script two.
-## Exhibit B,
+## Exhibit B
+
 A consideration of formula based of thirty one lines from folio pages 4r and 4v
 1.  Breaks middle of fourth foot; cuts apart object of prepositions
-
 2.  Middle of fourth foot; keeps prepositional phrase together
-
 3.  After first short of dactyl of third foot
-
 4.  Middle of third foot; separates initial preposition phrase
-
 5.  After first short of dactyl of third foot; keeps prepositional phrase together
 6.  Middle of third foot; Separates clauses
 7.  Middle of third foot; separates men/de
