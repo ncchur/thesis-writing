@@ -28,7 +28,7 @@ Consider adding abstract or summary for items you've gotten hold of?
 - [Text kit discussion forum](http://www.textkit.com/greek-latin-forum/viewtopic.php?t=59559)
 - Cavallo: [*The Byzantines*](http://books.google.com/books?id=FJDRx6FAi0EC&pg=PA97&lpg=PA97&dq=byzantine+prose+paraphrase+iliad&source=bl&ots=3btKgGNYh-&sig=G9yNlSlG-5WHyLuHsD4j0O8d-Oc&hl=en&sa=X&ei=XJ_NU8D3B8KWyATJsYDoCg&ved=0CFcQ6AEwCQ#v=onepage&q=byzantine%20prose%20paraphrase%20iliad&f=false) (Google books snippet view)
 - Burgess, T. [Initia Homerica cum Locorum Omnium Graeca Metaphrasi ex Codicibus Bodleianis et Novi Collegii Manuscriptis Majorem in Partem nunc primum edita] (http://scans.library.utoronto.ca/pdf/7/42/initiahomericasi00home/initiahomericasi00home.pdf)
-
+- *Michael Psellos* by Stratis Papaioannou (e-book in library collection)
 ## Material we need to photocopy ##
 
 Publication of 9 Homeric papyri
