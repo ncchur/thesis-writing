@@ -32,7 +32,7 @@ Consider adding abstract or summary for items you've gotten hold of?
 - *Reading Michael Psellos* by Charles Barber and David Jenkins (e-book in library collection)
 - *Iter Psellianum : a detailed listing of manuscript sources for all works attributed to Michael Psellos, including a comprehensive bibliography* by Paul Moore (ordered from ILL)
 - *Jahrbuch der Österreichischen Byzantinistik* article by Ioannis	Vassis (ordered from ILL)
-
+- Homer's ancient readers : the hermeneutics of Greek epic's earliest exegetes 
 ## Material we need to photocopy ##
 
 Publication of 9 Homeric papyri
