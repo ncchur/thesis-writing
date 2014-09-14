@@ -29,6 +29,9 @@ Consider adding abstract or summary for items you've gotten hold of?
 - Cavallo: [*The Byzantines*](http://books.google.com/books?id=FJDRx6FAi0EC&pg=PA97&lpg=PA97&dq=byzantine+prose+paraphrase+iliad&source=bl&ots=3btKgGNYh-&sig=G9yNlSlG-5WHyLuHsD4j0O8d-Oc&hl=en&sa=X&ei=XJ_NU8D3B8KWyATJsYDoCg&ved=0CFcQ6AEwCQ#v=onepage&q=byzantine%20prose%20paraphrase%20iliad&f=false) (Google books snippet view)
 - Burgess, T. [Initia Homerica cum Locorum Omnium Graeca Metaphrasi ex Codicibus Bodleianis et Novi Collegii Manuscriptis Majorem in Partem nunc primum edita] (http://scans.library.utoronto.ca/pdf/7/42/initiahomericasi00home/initiahomericasi00home.pdf)
 - *Michael Psellos* by Stratis Papaioannou (e-book in library collection)
+- *Reading Michael Psellos* by Charles Barber and David Jenkins (e-book in library collection)
+- *Iter Psellianum : a detailed listing of manuscript sources for all works attributed to Michael Psellos, including a comprehensive bibliography* by Paul Moore (ordered from ILL)
+- *Jahrbuch der Österreichischen Byzantinistik* article by Ioannis	Vassis (ordered from ILL)
 
 ## Material we need to photocopy ##
 
