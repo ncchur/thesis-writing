@@ -39,12 +39,7 @@ The article is used more often in the paraphrase than in the text of the poem. F
 ä ë ö ü ß
 # On using the terms scholia minora and uulgata
 The terms scholia minora, scholia vulgata, and D scholia are all used by various scholars to define and label certain groups of scholia that comment on the text of the Iliad text found in the mansucripts. While the terms have their uses, to be sure, in this paper the term "interlinear glosses" will be used to refer to a group of scholia which are both also used with the vulgata and minora appellations. The use of the term interlinear glosses is not without precedent: Wilhelm Dindorf deems this group, more or less, "glossemata interlinearea" in his edition of scholia.
-Spooner 3, The use of the designation "scholia minora" was to avoid the confusions created by rhe rubrics under which scholia minora have been published in the past, such as in "scholastic exercises" (which restricts the text to its transmission context and does not distinguish the scholia minora from other school exercises) and "glossary". . . 
-
-
-
-
-
+Spooner 3, The use of the designation "scholia minora" was to avoid the confusions created by the rubrics under which scholia minora have been published in the past, such as in "scholastic exercises" (which restricts the text to its transmission context and does not distinguish the scholia minora from other school exercises) and "glossary". . . 
 
 
 # Tables
@@ -56,7 +51,7 @@ Spooner 3, The use of the designation "scholia minora" was to avoid the confusio
 Example of [script one](urn:cite:hmt:vaimg.VA012RN-0013@0.1512,0.3071,0.0991,0.0165), thicker, generally lighter, very much cursive. Dominant hand of paraphrase from 12r until 
 
 
-Example of script two [interlinear scholia](urn:cite:hmt:vaimg.VA012RN-0013@0.4434,0.2875,0.0561,0.0158] thicker, more distinct, semiuncial).
+Example of script two [interlinear scholia](urn:cite:hmt:vaimg.VA012RN-0013@0.4434,0.2875,0.0561,0.0158]) thinner, more distinct, semiuncial.
 
 
 Script three first appears, interspersed with [script one](urn:cite:hmt:vaimg.VA013RN-0014@0.18,0.2231,0.351,0.0218), soon replaced again by script one.
