@@ -14,7 +14,7 @@ The Marciana 454, also referred to as the Venetus A, contains an interlinear par
 ## Marciana 841
  
 
-The Marciana 841 begins in book 14, with 15 as the first complete book. MS 841 presents the text of the poem and the paraphrase by the half-line (hemistich). From a small sampling, one sees that the lines are cut without obvious consideration for the formula. This is not to say that the separation is arbitrary or without reason, but rather that the half-line demarcations appear to be based more on a syllabic or metrical basis than on a formulaic one (see table B for cursory line-by-line analysis). The line split occurs most frequently in the third, and less often the fourth, foot.  
+The Marciana 841 begins in book 14, with 15 as the first complete book. MS 841 presents the text of the poem and the paraphrase by the half-line (hemistich). From a small sampling, one sees that the lines are cut without obvious consideration for the semantic content. This is not to say that the separation is arbitrary or without reason, but rather that the half-line demarcations appear to be based more on a syllabic or metrical basis than on a semantic one (see table B for cursory line-by-line analysis). The line split occurs most frequently in the third, and less often the fourth, foot.  
 	
 
 
@@ -29,6 +29,13 @@ Based on the coincidence of the Psellos paraphrase and the scholia vulgata, Ludw
 
 A comparison between the Bekker paraphrase and that of the Marciana 454 suggests similarities with consistent differences (see table c). (Vassis 12, Der Archetypos der Handschriften der Psellos-Paraphrase ist anderseits spätestens ins 11. Jh. zu setzen. Daß diese Paraphrase etwa eine gemeinsame Quelle mit den D-Scholien)
 
+
+# Past Scholarship
+Michael Psellos, 11th century Byzantine polymath.
+Erwinius Wassenbergh, edition of scholia and paraphrase, 1783
+Immanuel Bekker, Appendix to Scholia in Iliadem, 1827
+Arthur Ludwich, Aristarchs Textkritik, 1883
+Ioannis Vassis, Die handschriftliche Überlieferung der sogenannten Psellos-Paraphrase der Ilias, 1991
 
 
 # Comparison of Psellos Paraphrase from Escorial Ω.I.12 with the text of the Iliad in book 15
