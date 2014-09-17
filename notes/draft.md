@@ -39,6 +39,7 @@ The article is used more often in the paraphrase than in the text of the poem. F
 ä ë ö ü ß
 # On using the terms scholia minora and uulgata
 The terms scholia minora, scholia vulgata, and D scholia are all used by various scholars to define and label certain groups of scholia that comment on the text of the Iliad text found in the mansucripts. While the terms have their uses, to be sure, in this paper the term "interlinear glosses" will be used to refer to a group of scholia which are both also used with the vulgata and minora appellations. The use of the term interlinear glosses is not without precedent: Wilhelm Dindorf deems this group, more or less, "glossemata interlinearea" in his edition of scholia.
+Spooner 3, The use of the designation "scholia minora" was to avoid the confusions created by rhe rubrics under which scholia minora have been published in the past, such as in "scholastic exercises" (which restricts the text to its transmission context and does not distinguish the scholia minora from other school exercises) and "glossary". . . 
 
 
 
