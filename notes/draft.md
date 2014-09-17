@@ -31,10 +31,15 @@ A comparison between the Bekker paraphrase and that of the Marciana 454 suggests
 
 
 # Past Scholarship
+
 Michael Psellos, 11th century Byzantine polymath.
+
 Erwinius Wassenbergh, edition of scholia and paraphrase, 1783
+
 Immanuel Bekker, Appendix to Scholia in Iliadem, 1827
+
 Arthur Ludwich, Aristarchs Textkritik, 1883
+
 Ioannis Vassis, Die handschriftliche Überlieferung der sogenannten Psellos-Paraphrase der Ilias, 1991
 
 
