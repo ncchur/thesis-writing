@@ -22,7 +22,7 @@ Consider adding abstract or summary for items you've gotten hold of?
 ## Other ##
 
 - Ioannis Vassis, *Die handschriftliche Überlieferung der sogenannten Psellos-Paraphrase der Ilias* (Hamburg, 1991) (= Meletemata 2).  (Scan of ILL'ed copy in hand.)
-    -Compilation of Psellos MSS, description of each, general introduction to  paraphrase of Psellos and scholarship on it
+    - Compilation of Psellos MSS, description of each, general introduction to  paraphrase of Psellos and scholarship on it
 - Eduard Schmidt [*De Iliadis Paraphrasis Bekkeriana et Metaphrasi Villoisoniana*](http://www.homermultitext.org/pd-pdfs/Schmidt1875.pdf) (1875)
 - Friedrich Kappe, [*Der Bekkersche Paraphrast der Ilias und seine Bedeutung für die Textkritik*](http://www.homermultitext.org/pd-pdfs/Kappe1892.pdf)  
 - Paul Moore, [Iter Psellianum](http://books.google.com/books?id=0-9Y_tSCM7AC&pg=PA464&lpg=PA464&dq=scholiorum+in+homeri+iliadem+bekker&source=bl&ots=rrQ3HeTF3I&sig=fuKX4YsPXJzPzfgpkb3-aoNTyK0&hl=en&sa=X&ei=EjvdU9THAqKV8QGT8YGYDQ&ved=0CEwQ6AEwBg#v=onepage&q=scholiorum%20in%20homeri%20iliadem%20bekker&f=false) (snippets in Google books)
