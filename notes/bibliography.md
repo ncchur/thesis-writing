@@ -7,7 +7,7 @@ Consider adding abstract or summary for items you've gotten hold of?
 
 
 - In vol. 2 of Ludwich, [*Aristarchs Homerische Textkritik*](http://www.homermultitext.org/pd-pdfs/Ludwich1885.pdf)), Beliagen 1 (pp. 483-605), "Mittheilungen aus der griechischen Paraphrasen-Literatur"
--< Discussion of paraphrases: their sources, their relative chronology; has first 150 or so lines of VA paraphrase; offers comparison among scholia minora and Psellos, Gaza, Moschopolos, and VA paraphrases.
+>Discussion of paraphrases: their sources, their relative chronology; has first 150 or so lines of VA paraphrase; offers comparison among scholia minora and Psellos, Gaza, Moschopolos, and VA paraphrases.
 - Bekker, *[Scholiorum in Homeri Iliadem Appendix](http://www.homermultitext.org/pd-pdfs/Bekker1827.pdf)* (Berlin 1827)
 - Nikolaos Theseus, 4-volume edition of *Iliad* with parallel edition of paraphrase of Theodore Gaza:
     - [vol. 1](http://www.homermultitext.org/pd-pdfs/Theseus-1811.pdf) 
