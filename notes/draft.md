@@ -90,6 +90,9 @@ Script four (urn:cite:hmt:vaimg.VA015VN-0517@0.69,0.6769,0.198,0.0173) [rather l
 
 What seems to be and reads like a [paraphrase] (urn:cite:hmt:vaimg.VA016VN-0518@0.49,0.3261,0.274,0.0083) written in a script that is similar to script two.
 
+ä ë ö ü ß
+
+Darin besteht der Hauptgrund für die Schwierigkeit, der uspr. Charakter des Lexikons, seine Quellen und die Art und Weiss, wie diese angewandt wurden, zu bestimmen. A. stutzte sich in großem Ausmaß auf glossographisches Material, wie es in den D-Scholien zu Homer zusammengeflossen ist: hinzu kommen Beobachtungen, die auf verschiedenen wegen aus der auf Aristarchs zurück gelenden alexandrinischen Exegesestradition zu ihm gelangt waren; diese hat er in eine lexikographisches Form gebracht (Neue Pauly 885).
 
 
 ## Table B
