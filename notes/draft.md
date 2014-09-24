@@ -48,6 +48,7 @@ Ioannis Vassis, Die handschriftliche Überlieferung der sogenannten Psellos-Par
 
 The article is used more often in the paraphrase than in the text of the poem. Further, when the pronouns τόν and μιν are used in the text, αὐτόν is used in the paraphrase. When Danaans, Achaeans, and Argives are mentioned in the text, Hellenes is used almost universally in the parphrase. The particles generally remain the same; the continuity is interesting, especially because there is a two thousand year gap in the composition of the texts.
 
+
 ä ë ö ü ß
 # On using the terms scholia minora and uulgata
 The terms scholia minora, scholia vulgata, and D scholia are all used by various scholars to define and label certain groups of scholia that comment on the text of the Iliad text found in the mansucripts. While the terms have their uses, to be sure, in this paper the term "interlinear glosses" will be used to refer to a group of scholia which are both also used with the vulgata and minora appellations. The use of the term interlinear glosses is not without precedent: Wilhelm Dindorf deems this group, more or less, "glossemata interlinearea" in his edition of scholia.
@@ -61,6 +62,7 @@ Sophistes is fond of suggesting that the Homeric word bears its present meaning 
 
 Thanks to papyri, we have the numerous examples of the kind of word-by-word glossing that goes under that anachronistic label (Haslam Composition 40).
 
+"Forsman . . . postulierte als Hauptvorlage eine Glossensammlung, die aus den Kommentaren Aristarchs exzepeirt worden sei" (Erbse Beiträge 407).
 
 # Tables
 
