@@ -53,6 +53,14 @@ The article is used more often in the paraphrase than in the text of the poem. F
 The terms scholia minora, scholia vulgata, and D scholia are all used by various scholars to define and label certain groups of scholia that comment on the text of the Iliad text found in the mansucripts. While the terms have their uses, to be sure, in this paper the term "interlinear glosses" will be used to refer to a group of scholia which are both also used with the vulgata and minora appellations. The use of the term interlinear glosses is not without precedent: Wilhelm Dindorf deems this group, more or less, "glossemata interlinearea" in his edition of scholia.
 Spooner 3, The use of the designation "scholia minora" was to avoid the confusions created by the rubrics under which scholia minora have been published in the past, such as in "scholastic exercises" (which restricts the text to its transmission context and does not distinguish the scholia minora from other school exercises) and "glossary". . . 
 
+The lexicon of Apollonius Sophistes is certainly related to the scholia minora, but disagreement about the direction remains. While most scholars believe that the so-called D-Scholia were the source for the lexicon, some, including van der Valk, believe the reverse to be true (Haslam Composition 1).
+
+An important note on the lexicon: The quotations are often absent from the Coislinianus, but consistently are preserved in an early papyrus (P. Bodl. Lib. Ms. gr. class. e. 44) (Haslam Composition 29 n. 86).
+
+Sophistes is fond of suggesting that the Homeric word bears its present meaning (Haslam Composition 29).
+
+Thanks to papyri, we have the numerous examples of the kind of word-by-word glossing that goes under that anachronistic label (Haslam Composition 40).
+
 
 # Tables
 
