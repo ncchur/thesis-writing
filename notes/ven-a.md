@@ -1,7 +1,7 @@
 # Observations on the Venetus A #
 
 
-(Source for these conclusions?  Allen? If direct observations, should we start  listing here observations to support each idea?
+{>>What is the source for these conclusions?  Allen? If direct observations, should we start  listing here observations to support each idea?<<}
 
 - Seemingly three different hands. 
     >- What might be called the third hand seems to become at some point the interlinear  glosses, or at least related to it.
