@@ -38,10 +38,14 @@ Consider adding abstract or summary for items you've gotten hold of?
 - *Apollonii Sophistae lexicon Homericum (litt α-δ)* by K. Steinicke, Diss. 1957.
 - *Beitraege zum Ueberlieferung der Iliasscholien* by Harmut Erbse. 1960.
 - *De Aristarcho lexici Apolloniani Fonte* by K. Forsman.
-- *Das Verhaeltnis des Homerlexikons des Apollonius Sophistes zu den Homerscholien* by H. Gatiiker. Diss. 1945.
-- *A new papyrus text of Apollonius Sophistes*. ZPE 49, 1982, 31-88. Haslam, Michael.
+- *Das Verhaeltnis des Homerlexikons des Apollonius Sophistes zu den Homerscholien* by H. Gattiker. Diss. 1945.
+- *A new papyrus text of Apollonius Sophistes*. ZPE 49, 1982, 31-88. Michael Haslam.
 - *Homeric readings lost and found*. CPh 89, 1992, 322-325, Michael Haslam.
-
+- *The Homer Lexicon of Apollonius Sophistes I. Composition and Constituents; II. Identity and Transmission*. CPh 89, 1994. 1-45; 107-118.
+- *Apollonius Sophistes Homerlexikon*. Collectanea Papyrologica in memory of H.C. Youtie. later: 1976, I. 27-51. Henrichs and Mueller.
+- *Scholia Minor zu Homer I*.ZPE 7, 1971, 97-149.   Henrichs. 
+- 
+- 
 ## Material we need to photocopy ##
 
 {==Publication of 9 Homeric papyri==}{>>Has this been photocopied yet?]<<}
