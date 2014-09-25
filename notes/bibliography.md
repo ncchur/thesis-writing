@@ -35,7 +35,12 @@ Consider adding abstract or summary for items you've gotten hold of?
 - *Iter Psellianum : a detailed listing of manuscript sources for all works attributed to Michael Psellos, including a comprehensive bibliography* by Paul Moore (ordered from ILL)
 - *Jahrbuch der Österreichischen Byzantinistik* article by Ioannis Vassis (ordered from ILL)
 - Homer's ancient readers : the hermeneutics of Greek epic's earliest exegetes 
-
+- *Apollonii Sophistae lexicon Homericum (litt α-δ)* by K. Steinicke, Diss. 1957.
+- *Beitraege zum Ueberlieferung der Iliasscholien* by Harmut Erbse. 1960.
+- *De Aristarcho lexici Apolloniani Fonte* by K. Forsman.
+- *Das Verhaeltnis des Homerlexikons des Apollonius Sophistes zu den Homerscholien* by H. Gatiiker. Diss. 1945.
+- *A new papyrus text of Apollonius Sophistes*. ZPE 49, 1982, 31-88. Haslam, Michael.
+- *Homeric readings lost and found*. CPh 89, 1992, 322-325, Michael Haslam.
 
 ## Material we need to photocopy ##
 
