@@ -44,7 +44,7 @@ Consider adding abstract or summary for items you've gotten hold of?
 - *The Homer Lexicon of Apollonius Sophistes I. Composition and Constituents; II. Identity and Transmission*. CPh 89, 1994. 1-45; 107-118.
 - *Apollonius Sophistes Homerlexikon*. Collectanea Papyrologica in memory of H.C. Youtie. later: 1976, I. 27-51. Henrichs and Mueller.
 - *Scholia Minor zu Homer I*.ZPE 7, 1971, 97-149.   Henrichs. 
-- 
+- Collectanea Papyrologica
 - 
 ## Material we need to photocopy ##
 
