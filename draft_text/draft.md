@@ -64,6 +64,7 @@ Thanks to papyri, we have the numerous examples of the kind of word-by-word glos
 
 "Forsman . . . postulierte als Hauptvorlage eine Glossensammlung, die aus den Kommentaren Aristarchs exzepeirt worden sei" (Erbse Beiträge 407).
 
+# General Introudctory material
 	
 	Paul Moore, in his Iter Psellianum, cites 1176 works in the corpus psellianum (Moore 9). Some of these works are published variously in the Patrologia Graeca, Bibliotheca Teubneriana, and various other publications. From 1634 with the publication of Leo Allatius’ Diatriba to the present the day, all of the works of Psellos have not been published, and even those that have been have not all been published in full. This paper focuses mainly on the paraphrase of the Iliad. This work has been published in part and in sort by Wassenbergh and Bekker. Studies have been done on the text by Ludwich. The manuscripts have been collected and discussed by Ioannis Vassis. The point of this paper will be to investigate and discuss the connection between the so-called “D-scholia,” the Homeric Lexicon of Apollonius Sophistes, and the paraphrase of Psellos, particularly in book 15 of the Iliad and with reference to the early sections of book 1. To this end, editions of the text from these two books from the Omega 1.12 and Marciana 841 manuscripts will be made. 
 	
