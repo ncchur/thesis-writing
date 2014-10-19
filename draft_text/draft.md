@@ -64,6 +64,20 @@ Thanks to papyri, we have the numerous examples of the kind of word-by-word glos
 
 "Forsman . . . postulierte als Hauptvorlage eine Glossensammlung, die aus den Kommentaren Aristarchs exzepeirt worden sei" (Erbse Beiträge 407).
 
+	
+	Paul Moore, in his Iter Psellianum, cites 1176 works in the corpus psellianum (Moore 9). Some of these works are published variously in the Patrologia Graeca, Bibliotheca Teubneriana, and various other publications. From 1634 with the publication of Leo Allatius’ Diatriba to the present the day, all of the works of Psellos have not been published, and even those that have been have not all been published in full. This paper focuses mainly on the paraphrase of the Iliad. This work has been published in part and in sort by Wassenbergh and Bekker. Studies have been done on the text by Ludwich. The manuscripts have been collected and discussed by Ioannis Vassis. The point of this paper will be to investigate and discuss the connection between the so-called “D-scholia,” the Homeric Lexicon of Apollonius Sophistes, and the paraphrase of Psellos, particularly in book 15 of the Iliad and with reference to the early sections of book 1. To this end, editions of the text from these two books from the Omega 1.12 and Marciana 841 manuscripts will be made. 
+	
+	
+	It is clear, based on previous scholarship, that there is a relationship between the D-scholia and the paraphrase. Vassis reports from Ludwich that Psellos created his paraphrase from D-scholiastic material (Er hält es für wahrscheinlicher, daß Psellos aus den D-Scholien geschöpft hat, von welchen er wiederum vermutete, daß sie aus der Auflösung einer fortlaufenden, uns nicht erhaltenen Paraphrase stammen, als daß Paraphrase und Scholien auf eine gemeinsame Quelle zurückgehen). Vassis contends, however, that the D-Scholia are a “byzantine compilation, of which the chief sources are Homeric glosses, lexica, and Hellenistic paraphrases.” Van der Valk suggests that the paraphrase is a complete review of the scholia corpus (Vassis 11-12).
+	
+	
+	Forsman, the first to pose the question of sources, considered that the chief source for the Lexicon of Apollonius was a Gloss collection (Glossensammlung), which was derived from the commentaries of Aristarchus (Erbse 407). This notion Erbse, based on a chronology of other commentators using similar texts, refutes (Erbse 408). Gattiker, in Erbse’s view, takes a more correct position by postulating that the “scholia vulgata” are contained in a text under the name of Didymus that existed for a long time before the text of Apollonius. The scholia, rather than the lexicon, present the true idea of the student-definitions (Schulerklärung). Gattiker contends further that something like two-thirds of the Apollonius text comes from the D-scholia and the rest generally come from some initial text (unsprünglicheren Textgestalt) (Erbse 408). 
+
+
+	The D-Scholia, whatever they consist of precisely, were, according to Ernst Maas, redacted in the tenth century (Gattiker 7), so the scholia, as they stand now, comprise a text coming only decades before the paraphrase. The lexicon and scholia have a “direct and immediate agreement” (daß nur zwischen der D-Scholien und dem Lexikon des Apollonius ein direkter und unmittelbarer Zusammenhung besteht, Gattiker 50). As stated above, however, there is strain of thought, a la Ludwich, that holds rather than one being derived from the other, that each represents a branch of one Ur-source that diverged around the tenth century (Ludwich 515-516). Since both share commonalities with the lexicon, the notion is, clearly, not out of the question. Whatever the precise connection is between the two, they are related. Spooner concurs, in some sense, with this point, “The continuous grammatical paraphrases on papyrus and tablets published to date match, not surprisingly, the scholia minora and D in their choice of vocabulary” (Spooner 23).
+
+
+
 # Tables
 
 
