@@ -8,7 +8,7 @@ import org.concordion.integration.junit3.ConcordionTestCase;
 
 public class ApSophTest extends ConcordionTestCase {
     
-    public String geTokens(String urn) {
+    public String getTokens(String urn) {
         return ("Never looked anything up for urn " + urn);
     }
 }
