@@ -172,3 +172,7 @@ When Arthur Ludwich contended that the D-scholia and paraphrase each represent a
 [62] Kappe (4) calls for a similar study, “Sollte sich bei weiteren Verlgeichen das Resultat ergeben, dass der Text, den der Paraphrast benutzte, in wesentlichen Punkten von unserem Texte einerseits unds von den Scholien und Handschriften andererseits verschieden ist, so hätten wir unserer Paraphrase eine neue, bisher noch nicht benutzte Quelle für die Textkritik der Ilias.”
 
 [63] Schironi 22.
+
+
+
+ Moreover, Ludwich states that he would have liked to have consulted the Ω.I.12 because of its early composition.  Ω.I.12 lacks 481; 606, and 607, and the Marciana 841 lacks 481 and 482. All seven hundred forty-six lines of book 15 are present, except for the following. According to Allen, line 15.481 lacks in the vulgate version of the text.   No comment is made about the other lines. 
