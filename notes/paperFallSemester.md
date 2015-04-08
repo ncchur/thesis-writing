@@ -82,86 +82,170 @@ The particle δέ often signifies itself in the paraphrase, but in other instanc
 
 
 [1] Renner 311.
+
 [2] Spooner 16 n.77. This opinion was proposed to some extent by Ludwich and continued more recently by Gattiker and by Spooner.
+
 [3] Helmut van Thiel sums up the point well: “Berührungen mit den D-Scholien sind vermerkt” (van Thiel ZPE 132 p. 29). For a longer discussion of the “Geschichte der Sammlung” see van Thiel 5-8.
+
 [4] Montanari vii, “ancient scholarship,” which flourished on account of the need to conserve, interpret and study the works of the great authors of the past: textual criticism and exegesis on the one hand (i.e. text conservation and interpretation in the strict sense) and the study of linguistic phenomena on the other (vocabulary, grammar, rhetoric).
+
 [5] Montanari viii, What is thereby highlighted is the central importance of the relation between the library artefact and the text as an object of editing, that is to say, between on the one hand the craftsman's practices, aimed at correcting, in a copy, that which was held to be wrong (often by means of comparison with the antigraph or with other copies), and on the other hand, the rise of a philological practice seeking to emend the text of a work, in which case it was the text itself that was held to be unsatisfactory due to errors that had crept in over time and had been handed down through tradition. Finally, the framework thus reconstructed allows reflection on the nature of the readings attributed to the Alexandrian grammarians.
+
 [6] Montanari 107.
+
 [7] Erbse. Scholia Graeca in Homeri Iliadem, Berlin: de Gruyter, 1969–1983. Van Thiel. Scholia D in Iliadem. Cologne, 2000.
+
 [8] One might consider van Thiel’s edition of D-scholia, wherein both mythographic scholia and lexical glosses are included together, even though in the manuscript sources, the mythographic are included alongside the traditional scholia vetera.
+
 [9] There is doubtless a connection between the D and the Lexicon, as observed by Gattike 50, daß nur zwischen der D-Scholien und dem Lexikon des Apollonius ein direkter und unmittelbarer Zusammenhung besteht.” Furthermore, Henrichs considers each of these a source in his understanding of the scholia minora (101).
+
 [10] Dickey 20.
+
 [11] Gattiker 7.
+
 [12] Allen 158.
+
 [13] Der kleine Pauly 451. The one surviving manuscript of the Lexicon, the Coislianus 345, is dated to around the early tenth century (Haslam I 2). Reference is made on occasion to the later lexicon of Hesychius because preserves on occasion entries lost in the surviving manuscript of Apollonius’ text.
+
 [14] Moore 463.
+
 [15] Moore 9.
+
 [16] Vassis 43.
+
 [17] Ludwich 486. “Die laut S. 811 in der Hauptsache auf dem Cod. Parisinus 2690 beruht; nur wo dieser lückenhaft ist, hat Bekker anderweitig Hilfe gesucht, z.B. für den Schiffskatalog bei Wassenbergh, der die beiden ersten Bücher der Ilias mit Paraphrase aus einer Amsterdamer Handschrift herausgegeben hatte.“ Vassis 66-69. Interestingly, this manuscript, too, lacks the Catalogue of Ships.
+
 [18] This transcription has been prepared from images made available through the Homer Multitext Project. 
+
 [19] Spooner 31.
+
 [20] Vassis 1991 224. Die Paraphrase der Rhapsodien B-E von cod. G steht in keinem Zusammenhang mit der Psellos-Paraphrase.
+
 [21] Ludwich 512.
-[22] Ludwich 515-516, „sind jene Scholien auf ihrem Gebiet reichhaltiger als alle mir bekannten Redactionen der Psellos-Uebersetzung zusammengenommen.“
+
+[22] Ludwich 515-516, „sind jene Scholien auf ihrem Gebiet reichhaltiger als alle mir bekannten Redactionen der 
+Psellos-Uebersetzung zusammengenommen.“
+
 [23] “Sie ehemals einer älterer (jetzt verlorenen) fortlaufenden Homer-Übersetzung angehörten, die der Compilator der Vulgärscholien [D-scholia] excerpierte.”
+
 [24] Spooner 32.
+
 [25] Spooner 167.
+
 [26] Dickey 25.
+
 [27] Henrichs and Müller 28, “Der Vergleich dieser Papyri mit der Apolloniostradition im Codex Marcianus des Hesych einerseits und im Codex Coislinianus andererseits wirft neues Licht auf die frühesten Überlieferungsstufen dieses Lexikons.”
+
 [28] Henrichs 99.
+
 [29] Henrichs 99, “Das besondere Kennzeichen der Scholia Minora . . . ist die anspruchlose Schlichtheit ihrer Erklärungen: Sie bestehen im Grundstock aus Interpretamenten.”
+
 [30] Henrichs 99-100.
+
 [31] Henrichs 99 and 114.
+
 [32] See chart on Henrichs 114. He suggests that the scholia minora are the source for every major commentary and lexicon from the 5th BC forward. Further, he proposes that the so-called D-scholia are best considered a compilation of the scholia minora and Lexicon of Apollonius.
+
 [33] Van der Valk 204.
+
 [34] Vassis 11-12, Er hält es für wahrscheinlicher, daß Psellos aus den D-Scholien geschöpft hat, von welchen er wiederum vermutete, daß sie aus der Auflösung einer fortlaufenden, uns nicht erhaltenen Paraphrase stammen, als daß Paraphrase und Scholien auf eine gemeinsame Quelle zurückgehen.
+
 [35] Vassis 11-12.
+
 [36] Erbse 407.
+
 [37] Erbse 408.
+
 [38] Gattiker 50.
+
 [39] Van der Valk 206.
+
 [40] Schironi 412.
+
 [41] Schironi 427.
+
 [42] Valiavitcharska  240. 
+
 [43] Wahlgren 527.
+
 [44] Wahlgren 534.
+
 [45]Wahlgren 537.
+
 [46] These images were made available by the Homer Multitext project.
+
 [47] Again, these were made available by the Homer Multitext project.
+
 [48] Vassis 68.
+
 [49] Vassis 111.
+
 [50] Vassis 217.
-[51] Vassis 181, Achtzehn Codices, d.i. die Hälfte der Hss. mit der Psellos-Paraphrase, sind, wie weiter untergezeigt wird, unabhängig voneinander entstanden und müssen als Primärzeugen für  die Rekonstruktion des ursprünglichen Textes unserer Paraphrase herangezogen werden.
+
+[51] Vassis 181, Achtzehn Codices, d.i. die Hälfte der Hss. mit der Psellos-Paraphrase, sind, wie weiter untergezeigt wird, 
+unabhängig voneinander entstanden und müssen als Primärzeugen für  die Rekonstruktion des ursprünglichen Textes unserer Paraphrase herangezogen werden.
+
 [52] Ludwich 508.
+
 [53]Allen II 66.
+
 [54] Haslam I 29.
-[55] Thanks for this point must be given to Mark de Kreij of Heidelberg, who very generously shared his notes for a talk given at Lausanne, entitled “Genavensis Gr. 44. Une comparaison linguistique entre l’Iliade et la paraphrase,” December, 2013.
+
+[55] Thanks for this point must be given to Mark de Kreij of Heidelberg, who very generously shared his notes for a talk 
+given at Lausanne, entitled “Genavensis Gr. 44. Une comparaison linguistique entre l’Iliade et la paraphrase,” December, 2013.
+
 [56] Cf. l. 15.45 in the paraphrase, “σοὶ δὲ καὶ ἐκείνω ἐγὼ συμβουλεύσαιμϊ” and in l. 61, “αἵτινες νῦν αὐτὸν καταπονοῦσι κατὰ τὰς διανοίας τοὺς δὲ ἕλληνας.”
+
 [57] Line 15.2 in paraphrase, “φεύγοντες· πολλοὶ δὲ ἀπέθανον ὑπὸ ταῖς τῶν ἑλλήνων χερσὶν”
+
 [58] Line 15.476 in paraphrase, μὴ δὴ χωρὶς κακοπαθείαν καταπονήσαντες λάβοιεν.
+
 [59] Bekker 57, 1 and 18 and 59, 19.
+
 [60] Dindorf 331:12.14.
+
 [61] Liddell, Scott, Jones. 
+
 [62] Dindorf 332:12.46; 334:12.432; 335:13:467; and 340:21.267.
+
 [63] Bekker 164.8 “Ἀρίσταρχος σεσημείωται ὅτι συνήθως φόβος ἐπὶ τῆς φυγῆς, φύζα δὲ ἐπὶ τῆς μετὰ δειλίας φυγῆς.”
+
 [64] Haslam I 29.
+
 [65] Hesychius, Lexicon 1527-128. φοβεῖ· κνίζει, διώκει. “All the entries absent from the Coisilianus but present in the papyrus are present too in Hesychius, who it is known had access, whether directly or via Diogenianus, to a fuller version of Apollonius, Haslam 1982 37.
+
 [66] O 415/Zs  ἐείσατο δὲ (Αti)ἐπῆλθεν p. 470; O 544/Zs ἐεισάσθην: νῦν ἐπῆλθον p. 472. In the paraphrase, 415: ὁ δὲ ἕκτωρ ἀντικρὺ τοῦ αἴαντος ἐφάνη τοῦ ἐν δόξου; and 544: οὗτοι μὲν ὥρμσαν τὰ σιδηρᾶ ὅπλα ἀπὸ τῶν ὤμων.
+
 [67] Dindorf 312:2.215;319:9.545 and ;332:12.103&118.
+
 [68] Bekker, 62.26.
+
 [69] O 104/Z Zs p. 462.
+
 [70] Bekker 111.9.
+
 [71] Dindorf 321:10.101; 332:12.59; and 337:15.491.
+
 [72] Bekker 55.12, γνωτόν ἀδελφόν. καὶ πληθυντικῶς “γνωτοί τε γνωταί τε.”
+
 [73] At 3.174, the word appears in the masculine plural. It then appears six times in the masculine singular and once in the masculine plural.
+
 [74] 15. 48, 92, 200, 471, 684.
+
 [75] Bekker 24.22, ἀμείβεσθαι ἐπὶ μὲν τοῦ λόγον ἀνταποδιδόναι “ἀμείβετο φώνησέν τε,” ἐπὶ δὲ τοῦ κατὰ μέρος “οἱ μὲν ἀμειβόμενοι φυλακὰς ἔχον,” ἐπὶ δὲ τοῦ ἐναλλάσσειν “ὃς πρὸς Τυδείδην Διομήδεα τεύχε' ἄμειβεν.” See Hesychius 109 for comparison.
+
 [76] Ludwich 515-516.
+
 [77] Kappe (4) calls for a similar study, “Sollte sich bei weiteren Verlgeichen das Resultat ergeben, dass der Text, den der Paraphrast benutzte, in wesentlichen Punkten von unserem Texte einerseits unds von den Scholien und Handschriften andererseits verschieden ist, so hätten wir unserer Paraphrase eine neue, bisher noch nicht benutzte Quelle für die Textkritik der Ilias.”
+
 [78] Schironi 22.
+
 [79] Robertson 1146, “Jannaris observes how these postpositive particles (γέ, δή, μέν, πέρ, τοί and their compounds) tend in the later Greek either to disappear or become prepositive.”
+
 [80] Blomqvist 77.
+
 [81] Blomqvist 100.
+
 [82] Blomqvist 132.
 
 
