@@ -67,6 +67,110 @@ Common words, as suggested earlier, provide the opportunity to look comparativel
 When Arthur Ludwich contended that the D-scholia and paraphrase each represent a branch of an Ur-source, bifurcated around the tenth century,[76] he moved forward the notion of the intimate relation between these commentary texts. This paper has tried to demonstrate that this relation provides more than a continuous replication, but also offers a parallel and sometime alternative understanding of the text.[77] The paraphrase genre arose in order to facilitate the widespread reading of a text that was in a style and language that had become increasingly more challenging.[78] The derivation and genre of the paraphrase necessitated the differences in vocabulary, which represent more closely the nuances in the text. Although the paraphrases represent the longer glossographic tradition, they also form their own literary genre.  They required variation and explication of the text not needed in the lexical reading aids of the scholia. This paraphrase and others like it cannot be undervalued precisely because of their differences from the standard lexical commentaries. These variants give important clarification to distinctions that are lost or obscured in other parts of the glossographic tradition.
 
 
+Since the paraphrase is meant as a guide, it is important to examine where its text changes that of the *Iliad*. Or, put otherwise, the text of the paraphrase is substantially similar to the text of the epic, so it is telling to see where or how different words are introduced. 
+
+The examination can begin with compound adjectives. The rationale for this lies in the fact that these convey notions often linked directly to the particular text, e.g, stock epithets. 
+
+The first appears at line 15.5,  παρὰ χρυσοθρόνου Ἥρης, which is given as περὶ τῆς χρυσοθρόνον ἐχουσης ἥρας, in the paraphrase. This epithet appears a total of four times in the *Iliad*[1]. The question of prepositions aside for the moment[2], the extra participle is inserted while the adjective remains the same. One might speculate that the addition of the participle makes clear that Hera possesses a golden throne, rather than is herself in some way similar to a golden throne. 
+
+The pattern of making the action of the adjective evident continues. In 15.14 one sees first the adjective κακότεχνος, which is translated as κακῶς τέχνασμενος. Rather than Hera being herself craftily-contrived, she in fact *does* the crafty contriving. While this may seem to be too evident to make the distinction, the precision of the translation does suggest that the text does mean (as much as a text can intend to do anything) convey the complete sense of the text. That is, reproducing the sense of the text takes pre-eminence over creating a word-for-word equivalence. Hera is next described as *ἀμήχανε* which the paraphrase gives as κακομηχανή. This is also the gloss which is supplied in the *Lexicon Homericum*. The sense, as the author takes it, differs somewhat from the definition given in Liddell-Scott-Jones, which offers, "against whom or which nothing can be done, irresistible" [3]. The sense, it seems, in the Byzantine text brings out the notion of "evil planning" or "cunningly-wiled," rather than "impossible to plan against." Even still, it avoids the meaning of "plan-less."  
+
+
+what to make of this?
+
+15.16
+κακορραφίης ἀλεγεινῆς
+
+τῆς ἐπὶ μόχθου κακοβουλίας
+
+
+
+
+
+The change at 15.30 presents a slightly different case. The notion of *ἱππόβοτον*, "horse-grazing" becomes *ἱππότροφον*, "horse-raising." Again, this continues the known trend of directing the action of the adjective to its appropriate agent. The piece of land neither grazing in the manner of cattle nor does it graze on cattle. At the same place a change of noun also occurs. In the epic Zeus asserts that he brought Herakles back to Argos, but in the paraphrase, it is rendered as the Peloponnese. Changes such as this occur elsewhere, in the manner of naming all of the warriors from various regions of Greece "Hellenes."[4] Pindar refers to Argos as *ἱππότροφος* in Nemean Ode 10.41. While the adjective is doubtless fitting, one still needs to wonder about the change of place. Is one to assume that an eleventh century Byzantine reader needed to told that Argos is on the Peloponnese? Perhaps so.
+
+Descriptions of Hera continue to raise questions. At lines 15.34 and 15.49, the goddess is referred to as *βοῶπις πότνια*. In both cases, the paraphrase gives *πότνια* as *σεβασμὶα,* but it gives two different glosses for *βοῶπις*, *μεγαλόφθαλμος* in 15.34 and *εὐόφθαλμε* in 15.49.[5] If one compares the use of *εὐ-* in this instance with its use in others, one can notice that the prefix is sometimes used as intensifier, as in 15.113 *θαλερὼ* as *εὐθαλεῖς* or 15.621 *τροφόεντα* as *εὐτραφῆ*. Or, even, it can replace another intensifying prefix, as in the case of 15.550 *μετέπρεπε* as *εὐτρεπὴς*. The comparanda are not perfect, but they begin to approach the possibilities in meaning. *μεγαλό-* seems natural as a replace for cow-like eye.[6] 
+
+The same word, *μεγαλόφθαλμον*, for *εὐρύοπα* is given at 15.152 when describing the "son of Cronus." The other occurrence of this word at 15.724 the gloss gives *μεγαλόφωνος,* "loud-voiced." The stark difference in meaning is incredibly suggestive. The word, according to the Liddell-Scott-Jones, has a second folk etymology from the Greeks, "Derived by the Greeks from ὄπ-, ὄψομαι, wide-eyed (cf. ἥλιος εὐ. Orph.L.701) or from ὄπ- 'voice' (cf. ϝέπος, ὄψ (A), vox), far-sounding, i.e. thundering (cf. “χορὸς εὐρύοπα κέλαδον φθεγγόμενος” Lyr.Adesp.93, cf. Sch. Il.1.498)".[11] The compiler of the paraphrase is clearly aware of both etymologies and supplies both, at different times. Again, as one sees in the case of the "winged-words," there is a clear awareness of the multivalent character of the diction, and there is an attempt to make those resonances evident. The awareness of the different resonances raises an interesting question about the problem of constructing a gloss in general. In a lexicon, one has the luxury of listing every meaning and as a result one becomes aware all of the possibilities. In a gloss, however, and especially one that tries to remain aligned with the text, one can only present one reading at a time. Evidently this fact is compensated for, to some degree, by the use the multiple different possibilities. 
+
+
+The variation in translation, as the following example hopes to suggest, may just be that: literary variatio. In translating the phrase *ἔπεα πτερόεντα προσηύδα*, the paraphrase gives three possibilities *λόγους ἐπτερωμένους* at 15.35, λόγους ταχεῖς at 15.48,15.145, and 15.157, and 
+a combination of the two, λόγους ταχεῖς καὶ ἐπτερωμένους, at 15.89. What can be made of this? On the one hand, one may speculate that there is a certain discomfort or ill-fit in translating the *πτερόεντα* strictly with *ταχεῖς* because, as no lack of scholarship suggests, the words are more than just swiftly-winged. The cognate, then, becomes the best translation. One, of course, notices that the action of the adjective was transferred onto the noun, the words are flying. In this, both the literal image of the winged, read flying, words is preserved, while still giving *a* sense of the symbol, if not *the* only sense. Then, the usages of the three different forms may indicate the possible literary nature of the text. 
+
+15.50, 15.96, 15.122 *θεοῖς* for  *ἀθανάτοισι*, yet the deathless gods are always deathless gods. 
+
+The translation of *χαλκοχιτώνων* as *σιδηροθωρακῶν* at 15.56 gives a thoroughly intriguing instance of the translation for sense rather than for literal verisimilitude. The Byzantine soldier would not have been wearing bronze armor, and it would have been a breastplate, *θώραξ*, not a shirt, *χιτών*. The change of metal clarifies with a relative level of certainty that a similarity of sense is sought because of the advances and shifts in martial technology. *χαλκοχιτώνων* also occurs at 15.330 in Allen's text, but in the paraphrase the gloss of *καρτεροψύχων* is given, which suggests the text this is based off of had the variant reading given by Allen, *καρτερόθυμος*.[7] This is also the reading in the Omega I.12. It is also worth noting that here *βοιωτῶν* is given for *βοιωτῶν*.[8] 
+
+
+Oftentimes there are forms that fall out of common usage, and these too are updated. At 15.77, Achilles is described as *πτολίπορθον*, "city-sacking," is transformed in *τὸν τὰς πόλεις πορθοῦντα*. First it is clear that the form of "city" put into the common orthography, and then it is evident that the active adjective is again transformed into a participle with a nominal object. 
+
+
+The understanding of the body in Homeric verses poses an interesting question. Bruno Snell suggests, based off of the textual and archaeological (vase drawings especially)the understanding, at least artistically, of the human body was of a collection of parts, rather than a totality or a whole.[9] As this understanding changed, it is especially interesting to consider how the choice of glosses reflects this changed in conceptualization. In  15.87 Thetis garners the appellation, *καλλιπαρῄῳ*, "beautiful-cheeked," which is given in the paraphrase as *ἐυπροσώπου*, "beautiful-faced."[10] Here, the part is taken as referential to the whole. It may indeed be the case, but, as in the case of the "ox-eyed" Hera, one comes to consider what it is about these notions of beauty that do not necessarily come across literally, but notionally. 
+
+
+
+15.135 ὑπερθύμους as μεγαλοψύχους. 
+καρτερόθυμος as καρτεροψύχων
+
+15.161 ἅλα δῖαν as μεγάλην θάλασσαν
+also at 15.177, 15.223. This is interesting because other uses of the adjective garner translation like ἔνδοξος, when describing a person.
+
+An interesting development in the world of bronze. 
+15.221 πολεμικὸν for χαλκοκορυστήν
+15.458 εὐοπλω 
+Again, these do suggest that the sense of the word and what action it conveys are of greater importance than literal exactitude. When Hector, for they both times describe the great tamer of horses, possesses the brazen arms, he is warlike and well-equipped. Then again he is εὔοπλος when he possesses the κορυθαίολος. 
+
+
+15.253 τὸν δ᾽ αὖτε προσέειπεν ἄναξ ἑκάεργος Ἀπόλλων
+
+πρὸς τοῦτον δὲ πάλιν εἶπεν ὁ τοῦ διὸς υἱὸς βασιλεὺς ἀπόλλων
+
+15.262 τῷ βασιλεῖ τῶν ὄχλων
+both anax and poimen give basileus.
+
+Resume 15.281. 
+
+
+
+
+
+[1]:Look at Bekker's paraphrase for the heck of it. 1.611, 9.533, 14.154. 
+
+[2]: The placement of genitives proves to be interesting. Usually genitives proceed after their attendant noun, in the fashion "article, adjective, noun," but in some cases there is some attribution to the noun. In the case of 15.5, this may be to signify that Hera *possesses* the chair, rather that presently *performs* the act of holding it.   
+ 
+[3]: Cite LSJ.
+
+[4]: Cite some places maybe.
+
+[5]: The uses of the prefix εὐ-,
+15.87 καλλιπαρῄῳ as εὐπροσώπου 
+15.99 εὔφρων as εὐφραινόμενος 
+15.113 θαλερὼ as εὐθαλεῖς 
+15.153 θυόεν as εὐῶδες 
+15.203 στρεπταὶ as εὐμετάτρεπτοι 
+15.246,15.504 κορυθαίολος as εὔοπλος 
+15.263 ἀκοστήσας as εὐτραφον 
+15.362 ῥεῖα μάλ᾽ as εὐκόλως πάνυ
+15.463 ἐϋστρεφέα as εὔστροφον 
+15.477 ἐϋσσέλμους as εὐκαθέδρους 
+15.550 μετέπρεπε as εὐτρεπὴς 
+15.621 τροφόεντα as εὐτραφῆ 
+
+
+[6]: There is an essay somewhere that exhorts readers of Homer to take seriously the fact they people are described using cattle adjectives. Was there then something "attractive" about wide-eyed cows? Does it signify health, fertility, vivacity? All the same, she is large-eyed and "well-eyed."
+
+[7]: The alternative appears in AMBROSIANUS 152, NEAPOLITANUS II F I, and Vatican 10, 12, 13.
+
+[8]: It is telling that references to bronze are broadly replaced with iron, cf.15.127, *σιδηροῦν*.
+
+[9]: See Snell's fascinating discussion in his *Entdeckung des Geistes.*
+
+
+[10]: One can even continue to consider how *πρόσωπον* comes to mean the whole person, just *persona* in Latin does. 
+
+[11]: cite LSJ.
+
+
             	A majority of the particles remains constant through the text. This reflects the consistency, or perceived continuity, of particles. This continuity may also reflect the tendency of the grammarians to maintain the meaning of words as much as possible. Even still, the number of changes in the particles does indicate the general awareness that the meaning of the words, in particular certain particles, does change.
 An obvious change is the disappearance of γέ throughout the text.[79]
 Sophocles’ Lexicon (1870)
