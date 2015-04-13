@@ -1,6 +1,6 @@
-Paraphrasing Homer
+## Paraphrasing Homer
 
-The Texts
+# The Texts
 
 >-	Apollonius Sophistes Lexicon Homericum
 
@@ -10,7 +10,7 @@ The Texts
 
 --
 
-Relation
+# Relation
 
 >-	It is surmised Apollonius -> interlinear glosses
 
@@ -20,7 +20,7 @@ Relation
 
 --
 
-Nature of the paraphrase
+# Nature of the paraphrase
 
 >-	Different from glosses
 
