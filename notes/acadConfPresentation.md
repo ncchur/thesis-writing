@@ -18,6 +18,8 @@ Relation
 
 >-	E.g.
 
+--
+
 Nature of the paraphrase
 
 >-	Different from glosses
