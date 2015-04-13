@@ -8,6 +8,8 @@ The Texts
 
 >-	Michael Psellos’ Paraphrase
 
+--
+
 Relation
 
 >-	It is surmised Apollonius -> interlinear glosses
