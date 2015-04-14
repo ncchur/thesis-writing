@@ -11,4 +11,10 @@
 
 
 
+[^intro1]: Renner 311.
 
+
+
+[^intro2]: Spooner 16 n.77. This opinion was proposed to some extent by Ludwich and continued more recently by Gattiker and by Spooner.
+
+[^intro3]: Helmut van Thiel sums up the point well: “Berührungen mit den D-Scholien sind vermerkt” (van Thiel ZPE 132 p. 29). For a longer discussion of the “Geschichte der Sammlung” see van Thiel 5-8.
