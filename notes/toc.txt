@@ -1,0 +1,3 @@
+intro.md=Introduction
+sources.md=Source texts
+previous.md=Review of previous scholarship

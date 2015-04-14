@@ -1,7 +1,7 @@
-Paraphrasing Homer: The Relation between the Psellos Paraphrase and the Commentary Tradition
+# Paraphrasing Homer: The Relation between the Psellos Paraphrase and the Commentary Tradition
 
 
- The Homeric epics were crucial texts in the education of Greek speakers in antiquity. The importance of the epics led to the prominence and proliferation of glossographic material, including lexica, paraphrases, scholia, and lexical glosses. These texts acted as study aids and references for teachers, students, and general readers of the texts.[1] The paraphrases present a special branch of this corpus because they attempt not only to define difficult or obscure words, but also to recast the syntax into less complex prose. Debate surrounds the precise nature of the paraphrases, but the predominant opinion holds that they were pre-existing glosses connected into a continuous work.[2]  Although the coincidence of these lexical glosses, and other parts of the glossographic tradition with the paraphrases, particularly the one attributed to Michael Psellos, is significant and striking,[3] there are serious divergences. The differences suggest that the paraphrases are not just a “review” of the glosses, but, rather, that they hold additions or variations that offer an alternative and valid parallel to the standard collection of glosses. This paper will present a review of past scholarship on the paraphrases and then present examples from the text of the paraphrase to elucidate its argument.
+ The Homeric epics were crucial texts in the education of Greek speakers in antiquity. The importance of the epics led to the prominence and proliferation of glossographic material, including lexica, paraphrases, scholia, and lexical glosses. These texts acted as study aids and references for teachers, students, and general readers of the texts.[^1] The paraphrases present a special branch of this corpus because they attempt not only to define difficult or obscure words, but also to recast the syntax into less complex prose. Debate surrounds the precise nature of the paraphrases, but the predominant opinion holds that they were pre-existing glosses connected into a continuous work.[^2]  Although the coincidence of these lexical glosses, and other parts of the glossographic tradition with the paraphrases, particularly the one attributed to Michael Psellos, is significant and striking,[3] there are serious divergences. The differences suggest that the paraphrases are not just a “review” of the glosses, but, rather, that they hold additions or variations that offer an alternative and valid parallel to the standard collection of glosses. This paper will present a review of past scholarship on the paraphrases and then present examples from the text of the paraphrase to elucidate its argument.
  
  
 The texts are commented on by a variety of sources, including grammatical, historical, mythographic, and philological scholia; individual word glosses; and continuous prose paraphrases. As can be seen in the various manuscripts, the scribe put these scholiastic and glossographic materials in different and distinct locations on the page and in relation to the text, as an examination of various manuscripts would demonstrate. These different locations are suggestive of content and source. The mise-en-page cannot be discounted for a purely textual reading. Although these texts are in certain ways distinct, overlap and agreement among them suggest a certain degree of continuity, which begs for a holistic reading.
@@ -75,7 +75,7 @@ Since the paraphrase is meant as a guide, it is important to examine where its t
 
 The examination can begin with compound adjectives. The rationale for this lies in the fact that these convey notions often linked directly to the particular text, e.g, stock epithets. 
 
-The first appears at line 15.5,  παρὰ χρυσοθρόνου Ἥρης, which is given as περὶ τῆς χρυσοθρόνον ἐχουσης ἥρας, in the paraphrase. This epithet appears a total of four times in the *Iliad*[1]. The question of prepositions aside for the moment[2], the extra participle is inserted while the adjective remains the same. One might speculate that the addition of the participle makes clear that Hera possesses a golden throne, rather than is herself in some way similar to a golden throne. 
+The first appears at line 15.5,  παρὰ χρυσοθρόνου Ἥρης, which is given as περὶ τῆς χρυσοθρόνον ἐχουσης ἥρας, in the paraphrase. This epithet appears a total of four times in the *Iliad*[^1a]. The question of prepositions aside for the moment[2], the extra participle is inserted while the adjective remains the same. One might speculate that the addition of the participle makes clear that Hera possesses a golden throne, rather than is herself in some way similar to a golden throne. 
 
 The pattern of making the action of the adjective evident continues. In 15.14 one sees first the adjective κακότεχνος, which is translated as κακῶς τέχνασμενος. Rather than Hera being herself craftily-contrived, she in fact *does* the crafty contriving. While this may seem to be too evident to make the distinction, the precision of the translation does suggest that the text does mean (as much as a text can intend to do anything) convey the complete sense of the text. That is, reproducing the sense of the text takes pre-eminence over creating a word-for-word equivalence. Hera is next described as *ἀμήχανε* which the paraphrase gives as κακομηχανή. This is also the gloss which is supplied in the *Lexicon Homericum*. The sense, as the author takes it, differs somewhat from the definition given in Liddell-Scott-Jones, which offers, "against whom or which nothing can be done, irresistible" [3]. The sense, it seems, in the Byzantine text brings out the notion of "evil planning" or "cunningly-wiled," rather than "impossible to plan against." Even still, it avoids the meaning of "plan-less."  
 
@@ -137,7 +137,7 @@ Resume 15.281.
 
 
 
-[1]:Look at Bekker's paraphrase for the heck of it. 1.611, 9.533, 14.154. 
+[^1]:Look at Bekker's paraphrase for the heck of it. 1.611, 9.533, 14.154. 
 
 [2]: The placement of genitives proves to be interesting. Usually genitives proceed after their attendant noun, in the fashion "article, adjective, noun," but in some cases there is some attribution to the noun. In the case of 15.5, this may be to signify that Hera *possesses* the chair, rather that presently *performs* the act of holding it.   
  
@@ -188,7 +188,7 @@ The particle δέ often signifies itself in the paraphrase, but in other instanc
 Λοιπόν is an inferential or progressive particle that still retains its Classical functional of a temporal adverb.[81] Emphatic particles, on the other hand, become less common in Hellenistic prose, but I am not prepared to call that process simply a decline.[82]
 
 
-[1]: Renner 311.
+[^1a]: Renner 311.
 
 [2]: Spooner 16 n.77. This opinion was proposed to some extent by Ludwich and continued more recently by Gattiker and by Spooner.
 

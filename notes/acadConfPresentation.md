@@ -8,7 +8,7 @@
 
 >-	Michael Psellos’ Paraphrase
 
---
+----
 
 ## Relation
 
@@ -18,7 +18,7 @@
 
 >-	E.g.
 
---
+---
 
 ## Nature of the paraphrase
 
