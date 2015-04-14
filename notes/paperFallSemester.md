@@ -188,11 +188,6 @@ The particle δέ often signifies itself in the paraphrase, but in other instanc
 Λοιπόν is an inferential or progressive particle that still retains its Classical functional of a temporal adverb.[81] Emphatic particles, on the other hand, become less common in Hellenistic prose, but I am not prepared to call that process simply a decline.[82]
 
 
-[^1a]: Renner 311.
-
-[2]: Spooner 16 n.77. This opinion was proposed to some extent by Ludwich and continued more recently by Gattiker and by Spooner.
-
-[3]: Helmut van Thiel sums up the point well: “Berührungen mit den D-Scholien sind vermerkt” (van Thiel ZPE 132 p. 29). For a longer discussion of the “Geschichte der Sammlung” see van Thiel 5-8.
 
 [4]: Montanari vii, “ancient scholarship,” which flourished on account of the need to conserve, interpret and study the works of the great authors of the past: textual criticism and exegesis on the one hand (i.e. text conservation and interpretation in the strict sense) and the study of linguistic phenomena on the other (vocabulary, grammar, rhetoric).
 
