@@ -37,7 +37,9 @@
 >-	Also feature of Lex. Hom. -> preserve word as much as possible
 
 >-	E.g.
-15.1 Iliad: αὐτὰρ ἐπεὶ διά τε σκόλοπας καὶ τάφρον ἔβησαν 
+15.1 
+
+Iliad: αὐτὰρ ἐπεὶ διά τε σκόλοπας καὶ τάφρον ἔβησαν 
  
 Paraphrase: ἐπειδὴ δὲ τούς τε σκόλοπας καὶ τὴν τάφρον διέβησαν
 
