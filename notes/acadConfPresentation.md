@@ -4,16 +4,16 @@
 
 >-	Apollonius Sophistes Lexicon Homericum
 
-1:[urn:cite:bnf:coislin345img.Coislin345_img44@0.0631,0.5243,0.7828,0.2864]
+>-- 1:[urn:cite:bnf:coislin345img.Coislin345_img44@0.0631,0.5243,0.7828,0.2864]
 
 >-	Interlinear glosses
 
-1:[urn:cite:hmt:vaimg.VA191RN-0362@0.498,0.3847,0.125,0.0316]
+>-- 1:[urn:cite:hmt:vaimg.VA191RN-0362@0.498,0.3847,0.125,0.0316]
 
 
 >-	Michael Psellos’ Paraphrase
 
-1:[urn:cite:hmt:e4img.e4_421@0.059,0.2313,0.683,0.2067]
+>-- 1:[urn:cite:hmt:e4img.e4_421@0.059,0.2313,0.683,0.2067]
 
 ----
 
