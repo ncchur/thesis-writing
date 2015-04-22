@@ -36,8 +36,8 @@ Prior scholarship:
 | Text | Passage | Paraphrase |  
 |  ------	| ------	| ------	|  
 |  Lexicon | s.v. φόβος  | φυγῆς |  
-| Marciana 454 | ADD WORD GLOSSED |  εἰς φυγὴν ἐτράπησαν |  
-|  Psellos 15.15 | ADD WORD TRANSLATED  | εἰς τὴν φυγὴν ἔτρεψε  |  
+| Marciana 454 12.432 | φόβον | φυγὴν |  
+|  Psellos 15.396 | φόβος  | φυγὴ  |  
 
 
 
