@@ -114,7 +114,7 @@ E.g. *Iliad* 15.1
 
 ## Conclusion ##
 
--Reading in context, as (part of an)artifact
+-Reading in context, as (part of) an artifact
 
 -Reading as a continuum
 
