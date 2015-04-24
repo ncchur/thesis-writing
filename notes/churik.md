@@ -98,6 +98,20 @@ E.g. *Iliad* 15.1
 
 ---
 
+## Notions of Translation
+
+- Close syntactic alignment
+
+>- Holds true across levels of readership
+
+- Scholarly activity in words
+
+
+
+
+
+---
+
 ## Conclusion ##
 
 -Reading in context, as (part of an)artifact
