@@ -118,7 +118,7 @@ E.g. *Iliad* 15.1
 
 -Reading as a continuum
 
-- Understanding translation
+-Understanding translation
 
 
 
